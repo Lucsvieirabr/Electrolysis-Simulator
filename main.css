@@ -20,6 +20,7 @@
 button{
     margin-left: 150px;
     margin-right: 150px;
+    margin-bottom: 0px;
     outline: none;
     border-style: none;
     border-radius: 5px;
@@ -34,7 +35,7 @@ button{
     font-family: 'Roboto', sans-serif;
     color: rgb(101, 101, 245);
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 30px;
 }
 a{
