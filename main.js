@@ -1,4 +1,3 @@
-
 let canvas;
 let canvasContext;
 window.onload = function() {
